@@ -1,0 +1,2 @@
+[10-May-2023 16:32:16 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'users_absensi'@'localhost' (using password: YES) in /home/absensim/public_html/Auto-Nulis-V2/index.php on line 9
+[11-May-2023 11:12:26 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'users_absensi'@'localhost' (using password: YES) in /home/absensim/public_html/Auto-Nulis-V2/nulis.php on line 9
